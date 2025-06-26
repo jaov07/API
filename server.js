@@ -4,7 +4,6 @@ const app = express()
 
 app.get('/users',(req, res) =>{
     res.send("consegui acessar")
-
 })
 
 
